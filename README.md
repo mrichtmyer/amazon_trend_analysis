@@ -12,10 +12,11 @@
 # Notebooks:
 [Data cleaning process](https://github.com/mrichtmyer/amazon_trend_analysis/blob/master/Notebooks/Data_Exploration_and_Cleanup.ipynb)
 
-[Data Analysis]()
+[Data Analysis](https://github.com/mrichtmyer/amazon_trend_analysis/blob/master/Notebooks/Final%20Data%20Analysis.ipynb)
 
 [Topic Modeling](https://github.com/mrichtmyer/amazon_trend_analysis/blob/master/Notebooks/Topic%20Modeling.ipynb)
 
 # Results
+* [All Results](https://github.com/mrichtmyer/amazon_trend_analysis/tree/master/Results)
 * [LDA Topic Model](https://github.com/mrichtmyer/amazon_trend_analysis/blob/master/Results/LDA-vis.html)
 
